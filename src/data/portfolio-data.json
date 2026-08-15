@@ -1,0 +1,109 @@
+{
+  "personalInfo": {
+    "fullName": "Jane Doe",
+    "title": "Full-Stack Developer",
+    "email": "jane.doe@example.com",
+    "phoneNumbers": ["+1 555-000-0000"],
+    "linkedin": null,
+    "location": "San Francisco, CA, USA",
+    "summary": "Full-Stack Developer with experience designing, building and deploying scalable web applications. Skilled in JavaScript/TypeScript, React, Node.js, and cloud infrastructure."
+  },
+  "experience": [
+    {
+      "company": "Acme Corp.",
+      "location": "San Francisco, CA",
+      "role": "Full-Stack Developer",
+      "startDate": "Jan 2024",
+      "endDate": "Present",
+      "highlights": [
+        "Delivered features for multiple clients while maintaining alignment with business requirements.",
+        "Built reusable React components and a custom design system.",
+        "Optimized Node.js microservices and database queries."
+      ],
+      "projectSlugs": ["sample-project"]
+    }
+  ],
+  "internships": [
+    {
+      "company": "Starter Inc.",
+      "location": "Remote",
+      "role": "SDE Intern",
+      "startDate": "Jun 2022",
+      "endDate": "Dec 2022",
+      "highlights": [
+        "Developed internal tooling and workflow automation.",
+        "Collaborated with cross-functional teams on feature delivery.",
+        "Built and optimized REST APIs for production services."
+      ],
+      "projectSlugs": ["intern-project"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Example University",
+      "location": "New York, NY",
+      "degree": "B.Tech in Computer Science",
+      "cgpa": "8.5",
+      "startDate": "Aug 2019",
+      "endDate": "May 2023"
+    }
+  ],
+  "technicalSkills": {
+    "languages": ["JavaScript", "TypeScript", "Python", "SQL"],
+    "frontend": ["React.js", "Next.js", "Angular", "Redux", "Tailwind CSS"],
+    "backend": ["Node.js", "Express.js", "NestJS", "Django"],
+    "databases": ["PostgreSQL", "MongoDB", "MySQL"],
+    "authenticationAndSecurity": ["JWT", "OAuth 2.0", "RBAC"],
+    "storageAndIntegrations": ["AWS S3", "Supabase Storage"],
+    "dataVisualizationAndReporting": ["Chart.js", "CSV/XLSX Export"],
+    "testing": ["Jest", "Vitest", "Playwright"],
+    "cloudAndDevOps": ["AWS EC2", "Docker", "GitHub Actions", "CI/CD"],
+    "practices": ["Git", "Code Review", "Agile", "Scrum"]
+  },
+  "projectsIndex": [
+    {
+      "slug": "sample-project",
+      "name": "Sample Project",
+      "tagline": "A placeholder project for local development.",
+      "techStack": ["React", "Node.js", "PostgreSQL"],
+      "duration": "Jan 2024 \u2013 Present",
+      "company": "Acme Corp.",
+      "type": "professional"
+    },
+    {
+      "slug": "intern-project",
+      "name": "Intern Project",
+      "tagline": "A placeholder internship project.",
+      "techStack": ["Angular", "NestJS", "MongoDB"],
+      "duration": "Jun 2022 \u2013 Dec 2022",
+      "company": "Starter Inc.",
+      "type": "professional"
+    },
+    {
+      "slug": "personal-project",
+      "name": "Personal Project",
+      "tagline": "A placeholder personal project.",
+      "techStack": ["Next.js", "TypeScript", "Supabase"],
+      "duration": "Mar 2025",
+      "company": null,
+      "type": "personal"
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "John Smith",
+      "role": "Engineering Manager at Acme",
+      "quote": "Jane is an outstanding developer who consistently delivers high-quality, maintainable code."
+    },
+    {
+      "name": "Emily Brown",
+      "role": "Product Lead at StartupCo",
+      "quote": "Great collaborator with a strong eye for detail and user experience."
+    },
+    {
+      "name": "David Lee",
+      "role": "Senior Engineer",
+      "quote": "Her contributions to our architecture improved performance and team velocity."
+    }
+  ]
+}

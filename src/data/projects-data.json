@@ -1,0 +1,82 @@
+[
+  {
+    "slug": "sample-project",
+    "name": "Sample Project",
+    "type": "professional",
+    "company": "Acme Corp.",
+    "role": "Full-Stack Developer",
+    "startDate": "Jan 2024",
+    "endDate": "Present",
+    "tagline": "A placeholder enterprise project for local development.",
+    "overview": "This is a placeholder project used when Supabase is unavailable. Replace with real data by running the migration script.",
+    "techStack": {
+      "frontend": ["React", "TypeScript"],
+      "backend": ["Node.js", "Express.js"],
+      "database": ["PostgreSQL"],
+      "devopsAndTools": ["Docker", "GitHub Actions"],
+      "other": []
+    },
+    "features": [
+      "Built responsive dashboards with reusable components.",
+      "Designed scalable REST APIs with caching strategies.",
+      "Implemented CI/CD pipelines for automated deployments."
+    ],
+    "impactMetrics": [
+      {
+        "metric": "Users supported",
+        "value": "10,000+"
+      }
+    ],
+    "categories": ["Enterprise SaaS", "Analytics Dashboard"]
+  },
+  {
+    "slug": "intern-project",
+    "name": "Intern Project",
+    "type": "professional",
+    "company": "Starter Inc.",
+    "role": "SDE Intern",
+    "startDate": "Jun 2022",
+    "endDate": "Dec 2022",
+    "tagline": "A placeholder internship project.",
+    "overview": "Placeholder internship project for local development fallback.",
+    "techStack": {
+      "frontend": ["Angular", "NgRx"],
+      "backend": ["NestJS", "Node.js"],
+      "database": ["MongoDB"],
+      "devopsAndTools": [],
+      "other": []
+    },
+    "features": [
+      "Developed internal tooling for workflow automation.",
+      "Optimized API performance for high-volume data retrieval.",
+      "Collaborated with cross-functional teams on feature delivery."
+    ],
+    "impactMetrics": [],
+    "categories": ["Healthcare", "Enterprise SaaS"]
+  },
+  {
+    "slug": "personal-project",
+    "name": "Personal Project",
+    "type": "personal",
+    "company": null,
+    "role": null,
+    "startDate": "Mar 2025",
+    "endDate": "Present",
+    "tagline": "A placeholder personal side project.",
+    "overview": "Placeholder personal project for local development fallback.",
+    "techStack": {
+      "frontend": ["Next.js", "TypeScript", "Tailwind CSS"],
+      "backend": ["Supabase"],
+      "database": ["PostgreSQL"],
+      "devopsAndTools": ["Vercel"],
+      "other": []
+    },
+    "features": [
+      "Built a modern web application with server-side rendering.",
+      "Implemented authentication and authorization with Supabase Auth.",
+      "Designed a responsive UI with Tailwind CSS."
+    ],
+    "impactMetrics": [],
+    "categories": ["Developer Tools", "Content Platform"]
+  }
+]
